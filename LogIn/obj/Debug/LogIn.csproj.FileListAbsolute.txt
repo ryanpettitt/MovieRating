@@ -1,0 +1,10 @@
+C:\Users\ryane\dev-c#\Movie_database\Web_Scraping\LogIn\bin\Debug\LogIn.exe.config
+C:\Users\ryane\dev-c#\Movie_database\Web_Scraping\LogIn\bin\Debug\LogIn.exe
+C:\Users\ryane\dev-c#\Movie_database\Web_Scraping\LogIn\bin\Debug\LogIn.pdb
+C:\Users\ryane\dev-c#\Movie_database\Web_Scraping\LogIn\obj\Debug\LogIn.csprojAssemblyReference.cache
+C:\Users\ryane\dev-c#\Movie_database\Web_Scraping\LogIn\obj\Debug\LogIn.LogIn.resources
+C:\Users\ryane\dev-c#\Movie_database\Web_Scraping\LogIn\obj\Debug\LogIn.Properties.Resources.resources
+C:\Users\ryane\dev-c#\Movie_database\Web_Scraping\LogIn\obj\Debug\LogIn.csproj.GenerateResource.cache
+C:\Users\ryane\dev-c#\Movie_database\Web_Scraping\LogIn\obj\Debug\LogIn.csproj.CoreCompileInputs.cache
+C:\Users\ryane\dev-c#\Movie_database\Web_Scraping\LogIn\obj\Debug\LogIn.exe
+C:\Users\ryane\dev-c#\Movie_database\Web_Scraping\LogIn\obj\Debug\LogIn.pdb
